@@ -2134,7 +2134,7 @@ msgid ""
 "hot bed like the picture below, and fill the value on its left side into the "
 "factor K input box."
 msgstr ""
-"Calibrazione completata. Trova la linea di estrusione più uniforme sul tuo "
+"Calibrazione completata. Trova la linea d  i estrusione più uniforme sul tuo "
 "piatto come nell'immagine sotto e inserisci il valore sul lato sinistro "
 "nella casella di immissione del fattore K."
 
